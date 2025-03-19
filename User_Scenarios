@@ -1,18 +1,18 @@
 Winterson Hotel Management System - Use Case Scenarios
 
 Case 1: User Successful Login Attempt
-Actors: Hotel staff, receptionists, managers, accountants.
+Roles: Hotel staff.
 The user enters the correct credentials (username/email and password).
 The user is logged into the system and redirected to the main dashboard.
 
 Case 2: User Failed Login Attempt
-Actors: Hotel staff.
+Roles: Hotel staff.
 The user enters incorrect credentials.
 The system denies access and displays an error message.
 The user must re-enter correct credentials to proceed.
 
 Case 3: Receptionist Registers a New Guest
-Actors: Receptionist.
+Roles: Receptionist.
 Receptionist logs into the system.
 Navigates to the "Guest Registration" section.
 Enters guest details such as name, birthdate, ID, and contact information.
@@ -20,14 +20,14 @@ Room assignment is confirmed.
 Guest details are saved, and a personalized access card is issued.
 
 Case 4: Guest Charges a Meal to Their Room
-Actors: Guest, restaurant staff, receptionist.
+Roles: Guest, restaurant staff, receptionist.
 Guest orders a meal at the restaurant.
 Restaurant staff selects "Charge to Room" in the billing system.
 The system links the charge to the guest’s room number.
 The charge is reflected on the guest’s final invoice at checkout.
 
 Case 5: Accountant Generates Revenue and Loss Statement
-Actors: Accountant.
+Roles: Accountant.
 Accountant logs into the system.
 Navigates to "Finance Reports".
 Selects the desired time period.
@@ -35,27 +35,27 @@ The system generates a revenue and loss statement.
 Accountant exports or prints the report for financial tracking.
 
 Case 6: Manager Views Hotel Performance Analytics
-Actors: Hotel manager.
+Roles: Hotel manager.
 Manager logs into the system.
 Navigates to "Reports and Analytics".
 Selects key performance indicators (occupancy rates, revenue, employee performance, etc.).
 The system displays visual reports and trends.
 
 Case 7: Employee Clock-In/Clock-Out Using Fingerprint Scanner
-Actors: Hotel staff.
+Roles: Hotel staff.
 Employee places their finger on the scanner.
 The system verifies the fingerprint and logs the clock-in time.
 The system records attendance and updates HR records.
 
 Case 8: Guest Receives a Reward Voucher for Extended Stay
-Actors: Guest, hotel system.
+Roles: Guest, hotel system.
 Guest books a stay exceeding a predefined number of nights.
 The system automatically issues a discount or voucher.
 Guest receives the voucher via email or printed at reception.
 The voucher is applied to eligible services (e.g., restaurant, spa).
 
 Case 9: Event Organizer Books the Event Hall
-Actors: Event organizer, receptionist.
+Roles: Event organizer, receptionist.
 Event organizer contacts reception.
 Receptionist logs into the system and checks availability.
 Event details (date, number of guests, services required) are entered.
@@ -63,21 +63,21 @@ The system generates a booking confirmation and invoice.
 Payment is processed.
 
 Case 10: Housekeeping Updates Room Inventory
-Actors: Housekeeping staff.
+Roles: Housekeeping staff.
 Staff logs into the system and accesses "Inventory Management".
 Updates stock levels for cleaning supplies, toiletries, and minibar items.
 The system alerts managers when stock is low.
 Replenishment requests are sent automatically.
 
 Case 11: Staff Access Control Using Personalized Cards
-Actors: Hotel staff.
+Roles: Hotel staff.
 Staff uses personalized access card to enter restricted hotel areas.
 The system verifies the role and permissions.
 Access is granted or denied based on authorization level.
 The system logs entry and exit times.
 
 Case 12: Guest Checkout & Invoice Generation
-Actors: Guest, receptionist.
+Roles: Guest, receptionist.
 Guest requests checkout at reception.
 Receptionist reviews all charges (room, meals, additional services).
 The system generates an itemized invoice.
