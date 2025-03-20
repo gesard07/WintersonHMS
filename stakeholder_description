@@ -1,0 +1,43 @@
+Stakeholder Descriptions
+1. Primary Stakeholders (Direct Users)
+These stakeholders interact with the system daily and rely on it for their tasks.
+Receptionists
+Front-desk employees who handle guest check-ins, check-outs, reservations, and inquiries.
+Use the system to assign rooms, manage payments, and update guest records.
+Hotel Staff
+Includes housekeeping, restaurant/bar staff, and maintenance teams who use the system for task management.
+Housekeeping staff updates room statuses (cleaned, occupied, etc.).
+Restaurant and bar staff process orders and manage billing for guest services.
+Management
+Hotel managers and supervisors who use the system for business insights, financial tracking, and performance monitoring.
+Ensure smooth operation by analyzing reports and optimizing hotel services.
+
+2. Secondary Stakeholders (Business Partners & Regulators)
+These stakeholders interact with the system indirectly, benefiting from its data and functionality.
+Guests
+Customers who book rooms, dine in the restaurant, and use hotel services.
+They interact with the system for room reservations, online check-in, billing, and feedback submission.
+Regulators
+Government agencies responsible for tax compliance, safety regulations, and data privacy laws.
+They may require periodic reports and audits to ensure the hotel follows legal standards.
+Suppliers
+Companies providing goods and services, such as food, beverages, cleaning products, and hotel essentials.
+The system may help automate inventory tracking and supplier orders.
+Business Clients
+Corporate customers who book hotel rooms for employees, conferences, or business meetings.
+Often require invoicing, bulk booking, and special service agreements.
+
+3. External Stakeholders (Influencers & Security Considerations)
+These stakeholders may not use the system directly but play a significant role in its development, security, and impact.
+Developers
+IT professionals who build, maintain, and upgrade the system.
+Ensure system security, optimize performance, and troubleshoot technical issues.
+The Public
+Potential customers who may view hotel promotions, reviews, or availability through the system.
+They might interact with marketing campaigns but don’t have direct access to internal hotel data.
+Consultants
+Business and technology experts who analyze the system’s efficiency and recommend improvements.
+They help in optimizing workflows, enhancing customer experience, and integrating new technologies.
+Data Security Threats
+Cybercriminals, hackers, or malicious actors who pose risks to the system.
+The system needs strong security measures to protect guest data, financial transactions, and business information.
